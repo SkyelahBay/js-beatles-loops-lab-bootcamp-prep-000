@@ -19,7 +19,7 @@ function iLoveTheBeatles(num){
   var temp = [];
   var count = 0;
   do{
-    temp.push(`"I love the Beatles!"`);
+    temp.push(`I love the Beatles!`);
     count++;
   }
   while(count < num && num < 15);
