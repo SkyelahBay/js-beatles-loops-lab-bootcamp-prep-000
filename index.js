@@ -4,3 +4,10 @@ function theBeatlesPlay(musicians,instruments){
     temp.push(`${musicians[i]} plays ${instruments[i]}`);
   }
 }
+
+function johnLennonFacts(facts){
+  var count = 0;
+  while(count < facts.length){
+    facts[count].con
+  }
+}
