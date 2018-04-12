@@ -22,5 +22,6 @@ function iLoveTheBeatles(num){
     temp.push(`"I love the Beatles!"`);
     count++;
   }
-  while(num < 15);
+  while(count < num && num < 15);
+  return temp;
 }
