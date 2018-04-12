@@ -19,7 +19,7 @@ function iLoveTheBeatles(num){
   temp = [];
   do{
     temp.push(`"I love the Beatles!"`);
-    count += num;
+    num += num;
   }
   while(num < 15);
 }
